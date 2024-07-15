@@ -1,7 +1,7 @@
 ## Hi there, I'm Jirapath Jampraserth! 👋
 
 ### 🧑‍💻 About Me:
-- 🎓 Computer Engineering Student, Student ID: 64543206005-3
+- 🎓 Computer Engineering Student, Rajamangala University of Technology Lanna, Chiang Mai, Thailand
 - 🌟 Interested in Deep Learning, Generative Learning, and Brain-Computer Interface
 - 💻 Proficient in Python, JavaScript, C, C++, Verilog, and VHDL
 
