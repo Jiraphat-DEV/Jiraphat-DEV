@@ -1,4 +1,4 @@
-## Hi there, I'm Jirapath Jampraserth! 👋
+## Hi there, I'm Jiraphat Jamprasert! 👋
 
 ### 🧑‍💻 About Me:
 - 🎓 Computer Engineering Student, Rajamangala University of Technology Lanna, Chiang Mai, Thailand
