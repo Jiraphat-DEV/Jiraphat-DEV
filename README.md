@@ -26,7 +26,7 @@
 ### 📈 GitHub Stats:
 
 ![Jiraphat-DEV's Stats](https://github-readme-stats.vercel.app/api?username=Jiraphat-DEV&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
-![Jiraphat-DEV's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiraphat-DEV&theme=graywhite&hide_border=true)
+
 ![Jiraphat-DEV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraphat-DEV&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
 
