@@ -10,7 +10,7 @@
 ### 💻 Technical Skills:
 - **Programming Languages**: Python, JavaScript, C, C++, Verilog, VHDL
 - **Tools & Technologies**: YOLOv8, TensorFlow, PyTorch
-- **Languages**: Thai (Native), English (Pre-Intermediate), Chinese (Beginner)
+- **Languages**: Thai (Native), English (Pre-Intermediate)
 
 ### 🌱 What I'm Learning:
 - Advanced Deep Learning techniques
@@ -19,16 +19,6 @@
 
 ### 📫 How to Reach Me:
 - [GitHub Profile](https://github.com/Jiraphat-DEV)
-- [LinkedIn Profile](https://www.linkedin.com/in/jiraphat-jamprasert-659b58259/)
 - Email: Jiraphatzircon@gmail.com
-
-
-### 📈 GitHub Stats:
-
-![Jiraphat-DEV's Stats](https://github-readme-stats.vercel.app/api?username=Jiraphat-DEV&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
-
-![Jiraphat-DEV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraphat-DEV&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-
-
 
 Thank you for visiting my profile! 🙏
